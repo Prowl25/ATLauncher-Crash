@@ -1,0 +1,174 @@
+
+[14/03/2022 09:05:03 AM] Showing splash screen and loading everything
+[14/03/2022 09:05:03 AM] Checking for updated files!
+[14/03/2022 09:05:05 AM] Checking for updates to modpacks.ch instances
+[14/03/2022 09:05:06 AM] Launcher finished loading everything
+[14/03/2022 09:05:06 AM] Launcher opening
+[14/03/2022 09:05:06 AM] Made By Bob*
+[14/03/2022 09:05:06 AM] *(Not Actually)
+[14/03/2022 09:05:06 AM] Setting up Bottom Bar
+[14/03/2022 09:05:06 AM] Finished Setting up Bottom Bar
+[14/03/2022 09:05:06 AM] Setting up Tabs
+[14/03/2022 09:05:06 AM] Checking for updates to CurseForge instances
+[14/03/2022 09:05:07 AM] Finished Setting up Tabs
+[14/03/2022 09:05:07 AM] Showing Launcher
+[14/03/2022 09:05:13 AM] Preparing for launch!
+[14/03/2022 09:05:15 AM] Launching pack Mustard Virus by Forge Labs 1.7 for Minecraft 1.12.2
+[14/03/2022 09:05:15 AM] Logging into Minecraft!
+[14/03/2022 09:05:15 AM] Loader: Forge 14.23.5.2854
+[14/03/2022 09:05:15 AM] Mods:
+[14/03/2022 09:05:15 AM]  - \AIImprovements-1.12-0.0.1b3.jar
+[14/03/2022 09:05:15 AM]  - \AutoRegLib-1.3-32.jar
+[14/03/2022 09:05:15 AM]  - \BadMobs-1.12.2-1.1.40.jar
+[14/03/2022 09:05:15 AM]  - \betteranimalsplus-1.12.2-9.0.1.jar
+[14/03/2022 09:05:15 AM]  - \BetterBuildersWands-1.12.2-0.13.2.271+5997513.jar
+[14/03/2022 09:05:15 AM]  - \BetterFoliage-MC1.12-2.3.1.jar
+[14/03/2022 09:05:15 AM]  - \BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar
+[14/03/2022 09:05:15 AM]  - \Bloodmoon-MC1.12.2-1.5.3.jar
+[14/03/2022 09:05:15 AM]  - \CoFHCore-1.12.2-4.6.6.1-universal.jar
+[14/03/2022 09:05:15 AM]  - \coroutil-1.12.1-1.2.37.jar
+[14/03/2022 09:05:15 AM]  - \DynamicSurroundings-1.12.2-3.6.1.0.jar
+[14/03/2022 09:05:15 AM]  - \DynamicTrees-1.12.2-0.9.27.jar
+[14/03/2022 09:05:15 AM]  - \DynamicTreesBOP-1.12.2-1.4.4.jar
+[14/03/2022 09:05:15 AM]  - \DynamicTreesQuark-1.12.2-1.0.6.jar
+[14/03/2022 09:05:15 AM]  - \EpicSiegeMod-13.168.jar
+[14/03/2022 09:05:15 AM]  - \FamiliarFauna-1.12.2-1.0.11.jar
+[14/03/2022 09:05:15 AM]  - \Forgelin-1.8.4.jar
+[14/03/2022 09:05:15 AM]  - \grapplemod-1.12.2-v12.2.jar
+[14/03/2022 09:05:15 AM]  - \HideNames-1.12.2-1.4.1.jar
+[14/03/2022 09:05:15 AM]  - \iChunUtil-1.12.2-7.2.2.jar
+[14/03/2022 09:05:15 AM]  - \jei_1.12.2-4.16.1.302.jar
+[14/03/2022 09:05:15 AM]  - \JustEnoughResources-1.12.2-0.9.2.60.jar
+[14/03/2022 09:05:15 AM]  - \lostcities-1.12-2.0.22.jar
+[14/03/2022 09:05:15 AM]  - \memory_repo\com\enderio\core\EnderCore\1.12.2-0.5.76\EnderCore-1.12.2-0.5.76-core.jar
+[14/03/2022 09:05:15 AM]  - \memory_repo\info\loenwind\autoconfig\AutoConfig\1.12.2-1.0.2\AutoConfig-1.12.2-1.0.2.jar
+[14/03/2022 09:05:15 AM]  - \memory_repo\info\loenwind\autosave\AutoSave\1.12.2-1.0.11\AutoSave-1.12.2-1.0.11.jar
+[14/03/2022 09:05:15 AM]  - \MixinBootstrap-1.0.5.jar
+[14/03/2022 09:05:15 AM]  - \MobDismemberment-1.12.2-7.0.0.jar
+[14/03/2022 09:05:15 AM]  - \MoBends_1.12.2-1.2.1-19.12.21.jar
+[14/03/2022 09:05:15 AM]  - \mobsunscreen-1.12.2-2.1.3.jar
+[14/03/2022 09:05:15 AM]  - \mw_2.0-0.4.4.6_mc1.12.2.jar
+[14/03/2022 09:05:15 AM]  - \OreLib-1.12.2-3.6.0.1.jar
+[14/03/2022 09:05:15 AM]  - \Quark-r1.6-179.jar
+[14/03/2022 09:05:15 AM]  - \raiders-1.12.2-3.0.9.jar
+[14/03/2022 09:05:15 AM]  - \rats-3.2.12-1.12.2.jar
+[14/03/2022 09:05:15 AM]  - \RedstoneFlux-1.12-2.1.1.1-universal.jar
+[14/03/2022 09:05:15 AM]  - \reptilemod-1.12.2-1.0.0-1.jar
+[14/03/2022 09:05:15 AM]  - \SpartanShields-1.12.2-1.5.4.jar
+[14/03/2022 09:05:15 AM]  - \SpartanWeaponry-1.12.2-beta-1.3.8.jar
+[14/03/2022 09:05:15 AM]  - \SpawnerControl-1.6.3b.jar
+[14/03/2022 09:05:15 AM]  - \thiccentities-1.4.jar
+[14/03/2022 09:05:15 AM]  - \vehicle-mod-0.43.4-1.12.2.jar
+[14/03/2022 09:05:15 AM]  - \walljump-1.12.2-1.3.2.jar
+[14/03/2022 09:05:15 AM]  - \weather2-1.12.1-2.6.12.jar
+[14/03/2022 09:05:15 AM]  - \zombieawareness-1.12.1-1.11.16.jar
+[14/03/2022 09:05:15 AM]  - \[1.12.2] SecurityCraft v1.8.20.2.jar
+[14/03/2022 09:05:15 AM] Launching Minecraft with the following arguments (user related stuff has been removed): [USERSDIR\runtimes\minecraft\jre-legacy\windows-x64\jre-legacy\bin\javaw, -XX:-OmitStackTraceInFastThrow, -Xms512M, -Xmx4096M, -XX:MetaspaceSize=256M, -Duser.language=en, -Duser.country=US, -Dfml.log.level=INFO, -Dlog4j.configurationFile=USERSDIR\assets\log_configs\client-1.12.xml, -XX:+UnlockExperimentalVMOptions, -XX:+UseG1GC, -XX:G1NewSizePercent=20, -XX:G1ReservePercent=20, -XX:MaxGCPauseMillis=50, -XX:G1HeapRegionSize=32M, -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump, -Djava.library.path=USERSDIR\temp\natives-176b71c9796549b8a58f0fee32502937, -cp, USERSDIR\libraries\net\minecraftforge\forge\1.12.2-14.23.5.2854\forge-1.12.2-14.23.5.2854.jar;USERSDIR\libraries\org\ow2\asm\asm-debug-all\5.2\asm-debug-all-5.2.jar;USERSDIR\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar;USERSDIR\libraries\org\jline\jline\3.5.1\jline-3.5.1.jar;USERSDIR\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar;USERSDIR\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar;USERSDIR\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar;USERSDIR\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar;USERSDIR\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2_mc\scala-continuations-library_2.11-1.0.2_mc.jar;USERSDIR\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2_mc\scala-continuations-plugin_2.11.1-1.0.2_mc.jar;USERSDIR\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar;USERSDIR\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar;USERSDIR\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar;USERSDIR\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar;USERSDIR\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar;USERSDIR\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar;USERSDIR\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar;USERSDIR\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar;USERSDIR\libraries\org\apache\maven\maven-artifact\3.5.3\maven-artifact-3.5.3.jar;USERSDIR\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;USERSDIR\libraries\com\mojang\patchy\1.3.9\patchy-1.3.9.jar;USERSDIR\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;USERSDIR\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;USERSDIR\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;USERSDIR\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;USERSDIR\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;USERSDIR\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;USERSDIR\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;USERSDIR\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar;USERSDIR\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;USERSDIR\libraries\io\netty\netty-all\4.1.9.Final\netty-all-4.1.9.Final.jar;USERSDIR\libraries\com\google\guava\guava\21.0\guava-21.0.jar;USERSDIR\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;USERSDIR\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;USERSDIR\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;USERSDIR\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;USERSDIR\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;USERSDIR\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;USERSDIR\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar;USERSDIR\libraries\com\mojang\realms\1.10.22\realms-1.10.22.jar;USERSDIR\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;USERSDIR\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;USERSDIR\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;USERSDIR\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;USERSDIR\libraries\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar;USERSDIR\libraries\org\apache\logging\log4j\log4j-api\2.16.0\log4j-api-2.16.0.jar;USERSDIR\libraries\org\apache\logging\log4j\log4j-core\2.16.0\log4j-core-2.16.0.jar;USERSDIR\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar;USERSDIR\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar;USERSDIR\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar;USERSDIR\libraries\org\lwjgl\lwjgl\lwjgl-platform\2.9.4-nightly-20150209\lwjgl-platform-2.9.4-nightly-20150209-natives-windows.jar;USERSDIR\libraries\org\lwjgl\lwjgl\lwjgl-platform\2.9.2-nightly-20140822\lwjgl-platform-2.9.2-nightly-20140822-natives-windows.jar;USERSDIR\libraries\net\java\jinput\jinput-platform\2.0.5\jinput-platform-2.0.5-natives-windows.jar;USERSDIR\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3-natives-windows.jar;USERSDIR\libraries\net\minecraft\client\1.12.2\client-1.12.2.jar, net.minecraft.launchwrapper.Launch, --username, REDACTED, --version, 1.12.2, --gameDir, USERSDIR\instances\MustardVirusbyForgeLabs, --assetsDir, USERSDIR\assets, --assetIndex, 1.12, --uuid, REDACTED, --accessToken, REDACTED, --userType, msa, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --versionType, Forge, --width=854, --height=480]
+[14/03/2022 09:05:16 AM] [main/INFO] Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[14/03/2022 09:05:16 AM] [main/INFO] Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[14/03/2022 09:05:16 AM] [main/INFO] Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[14/03/2022 09:05:16 AM] [main/INFO] Forge Mod Loader version 14.23.5.2854 for Minecraft 1.12.2 loading
+[14/03/2022 09:05:16 AM] [main/INFO] Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 8.1:amd64:6.3, installed at **USERSDIR**\runtimes\minecraft\jre-legacy\windows-x64\jre-legacy
+[14/03/2022 09:05:16 AM] [main/INFO] Searching **USERSDIR**\instances\MustardVirusbyForgeLabs\mods for mods
+[14/03/2022 09:05:16 AM] [main/WARN] Found FMLCorePluginContainsFMLMod marker in BetterFoliage-MC1.12-2.3.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[14/03/2022 09:05:16 AM] [main/WARN] The coremod BetterFoliageLoader (mods.betterfoliage.loader.BetterFoliageLoader) is not signed!
+[14/03/2022 09:05:16 AM] [main/WARN] Found FMLCorePluginContainsFMLMod marker in Bloodmoon-MC1.12.2-1.5.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[14/03/2022 09:05:16 AM] [main/WARN] The coremod lumien.bloodmoon.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[14/03/2022 09:05:16 AM] [main/INFO] Loading tweaker org.spongepowered.asm.launch.MixinTweaker from DynamicSurroundings-1.12.2-3.6.1.0.jar
+[14/03/2022 09:05:16 AM] [main/WARN] Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[14/03/2022 09:05:16 AM] [main/WARN] The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[14/03/2022 09:05:16 AM] [main/WARN] The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[14/03/2022 09:05:16 AM] [main/INFO] Loading tweaker org.spongepowered.asm.launch.MixinTweaker from MixinBootstrap-1.0.5.jar
+[14/03/2022 09:05:16 AM] [main/WARN] Found FMLCorePluginContainsFMLMod marker in mw_2.0-0.4.4.6_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[14/03/2022 09:05:16 AM] [main/WARN] The coremod weaponlib (com.vicmatskiv.weaponlib.core.WeaponlibCorePlugin) is not signed!
+[14/03/2022 09:05:16 AM] [main/WARN] Found FMLCorePluginContainsFMLMod marker in Quark-r1.6-179.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[14/03/2022 09:05:16 AM] [main/WARN] The coremod Quark Plugin (vazkii.quark.base.asm.LoadingPlugin) is not signed!
+[14/03/2022 09:05:16 AM] [main/WARN] Found FMLCorePluginContainsFMLMod marker in rats-3.2.12-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[14/03/2022 09:05:16 AM] [main/WARN] The coremod ratscore (com.github.alexthe666.rats.server.asm.RatsPlugin) is not signed!
+[14/03/2022 09:05:16 AM] [main/WARN] Found FMLCorePluginContainsFMLMod marker in thiccentities-1.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[14/03/2022 09:05:16 AM] [main/WARN] The coremod wiresegal.thicc.asm.ThiccCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[14/03/2022 09:05:16 AM] [main/WARN] The coremod ThiccEntities Plugin (wiresegal.thicc.asm.ThiccCorePlugin) is not signed!
+[14/03/2022 09:05:16 AM] [main/INFO] Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14/03/2022 09:05:16 AM] [main/INFO] Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[14/03/2022 09:05:16 AM] [main/INFO] SpongePowered MIXIN Subsystem Version=0.8 Source=file:/D:/ATLauncher/instances/MustardVirusbyForgeLabs/mods/DynamicSurroundings-1.12.2-3.6.1.0.jar Service=LaunchWrapper Env=CLIENT
+[14/03/2022 09:05:16 AM] [main/DEBUG] Instantiating coremod class TransformLoader
+[14/03/2022 09:05:16 AM] [main/DEBUG] The coremod org.orecruncher.dsurround.mixins.TransformLoader requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[14/03/2022 09:05:16 AM] [main/DEBUG] Found signing certificates for coremod TransformLoader (org.orecruncher.dsurround.mixins.TransformLoader)
+[14/03/2022 09:05:16 AM] [main/DEBUG] Found certificate 7a2128d395ad96ceb9d9030fbd41d035b435753a
+[14/03/2022 09:05:16 AM] [main/INFO] Compatibility level set to JAVA_8
+[14/03/2022 09:05:16 AM] [main/DEBUG] Enqueued coremod TransformLoader
+[14/03/2022 09:05:16 AM] [main/WARN] Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[14/03/2022 09:05:16 AM] [main/INFO] Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[14/03/2022 09:05:16 AM] [main/INFO] Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14/03/2022 09:05:16 AM] [main/INFO] Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14/03/2022 09:05:16 AM] [main/INFO] Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14/03/2022 09:05:16 AM] [main/DEBUG] Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
+[14/03/2022 09:05:16 AM] [main/TRACE] Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[14/03/2022 09:05:16 AM] [main/TRACE] Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[14/03/2022 09:05:16 AM] [main/TRACE] Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[14/03/2022 09:05:17 AM] [main/TRACE] Registering transformer net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[14/03/2022 09:05:17 AM] [main/DEBUG] Injection complete
+[14/03/2022 09:05:17 AM] [main/DEBUG] Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
+[14/03/2022 09:05:17 AM] [main/DEBUG] Running coremod plugin FMLCorePlugin
+[14/03/2022 09:05:17 AM] 2022-03-14 09:05:17,671 main WARN Error parsing URI **USERSDIR**\assets\log_configs\client-1.12.xml
+[14/03/2022 09:05:18 AM] [main/INFO] Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[14/03/2022 09:05:18 AM] [main/INFO] Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[14/03/2022 09:05:18 AM] [main/DEBUG] Coremod plugin class FMLCorePlugin run successfully
+[14/03/2022 09:05:18 AM] [main/INFO] Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14/03/2022 09:05:18 AM] [main/DEBUG] Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
+[14/03/2022 09:05:18 AM] [main/DEBUG] Injection complete
+[14/03/2022 09:05:18 AM] [main/DEBUG] Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}
+[14/03/2022 09:05:18 AM] [main/DEBUG] Running coremod plugin FMLForgePlugin
+[14/03/2022 09:05:18 AM] [main/DEBUG] Coremod plugin class FMLForgePlugin run successfully
+[14/03/2022 09:05:18 AM] [main/INFO] Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14/03/2022 09:05:18 AM] [main/DEBUG] Injecting coremod ForgelinPlugin \{net.shadowfacts.forgelin.preloader.ForgelinPlugin\} class transformers
+[14/03/2022 09:05:18 AM] [main/DEBUG] Injection complete
+[14/03/2022 09:05:18 AM] [main/DEBUG] Running coremod plugin for ForgelinPlugin \{net.shadowfacts.forgelin.preloader.ForgelinPlugin\}
+[14/03/2022 09:05:18 AM] [main/DEBUG] Running coremod plugin ForgelinPlugin
+[14/03/2022 09:05:18 AM] [main/DEBUG] Coremod plugin class ForgelinPlugin run successfully
+[14/03/2022 09:05:18 AM] [main/INFO] Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14/03/2022 09:05:18 AM] [main/DEBUG] Injecting coremod weaponlib \{com.vicmatskiv.weaponlib.core.WeaponlibCorePlugin\} class transformers
+[14/03/2022 09:05:18 AM] [main/TRACE] Registering transformer com.vicmatskiv.weaponlib.core.WeaponlibClassTransformer
+[14/03/2022 09:05:18 AM] [main/DEBUG] Injection complete
+[14/03/2022 09:05:18 AM] [main/DEBUG] Running coremod plugin for weaponlib \{com.vicmatskiv.weaponlib.core.WeaponlibCorePlugin\}
+[14/03/2022 09:05:18 AM] [main/DEBUG] Running coremod plugin weaponlib
+[14/03/2022 09:05:18 AM] [main/DEBUG] Coremod plugin class WeaponlibCorePlugin run successfully
+[14/03/2022 09:05:18 AM] [main/INFO] Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[14/03/2022 09:05:18 AM] [main/INFO] Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@38c2c309
+[14/03/2022 09:05:18 AM] [main/DEBUG] Injecting coremod TransformLoader \{org.orecruncher.dsurround.mixins.TransformLoader\} class transformers
+[14/03/2022 09:05:18 AM] [main/DEBUG] Injection complete
+[14/03/2022 09:05:18 AM] [main/DEBUG] Running coremod plugin for TransformLoader \{org.orecruncher.dsurround.mixins.TransformLoader\}
+[14/03/2022 09:05:18 AM] [main/DEBUG] Running coremod plugin TransformLoader
+[14/03/2022 09:05:18 AM] [main/DEBUG] Coremod plugin class TransformLoader run successfully
+[14/03/2022 09:05:18 AM] [main/INFO] Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[14/03/2022 09:05:18 AM] [main/DEBUG] Validating minecraft
+[14/03/2022 09:05:18 AM] [main/INFO] Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14/03/2022 09:05:18 AM] [main/INFO] Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14/03/2022 09:05:18 AM] [main/INFO] Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14/03/2022 09:05:18 AM] [main/INFO] Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14/03/2022 09:05:18 AM] [main/INFO] [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.NoClassDefFoundError: com/github/alexthe666/rats/server/misc/RatsRuntimePatcher
+[14/03/2022 09:05:18 AM] [main/INFO] [java.lang.ThreadGroup:uncaughtException:1052]: 	at com.github.alexthe666.rats.server.asm.RatsPlugin.getASMTransformerClass(RatsPlugin.java:18)
+[14/03/2022 09:05:18 AM] [main/INFO] [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper.injectIntoClassLoader(CoreModManager.java:129)
+[14/03/2022 09:05:18 AM] [main/INFO] [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115)
+[14/03/2022 09:05:18 AM] [main/INFO] [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[14/03/2022 09:05:18 AM] [main/INFO] [java.lang.ThreadGroup:uncaughtException:1061]: Caused by: java.lang.ClassNotFoundException: com.github.alexthe666.rats.server.misc.RatsRuntimePatcher
+[14/03/2022 09:05:18 AM] [main/INFO] [java.lang.ThreadGroup:uncaughtException:1061]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
+[14/03/2022 09:05:18 AM] [main/INFO] [java.lang.ThreadGroup:uncaughtException:1061]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+[14/03/2022 09:05:18 AM] [main/INFO] [java.lang.ThreadGroup:uncaughtException:1061]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+[14/03/2022 09:05:18 AM] [main/INFO] [java.lang.ThreadGroup:uncaughtException:1061]: 	... 4 more
+[14/03/2022 09:05:18 AM] [main/INFO] [java.lang.Throwable:printStackTrace:643]: Caused by: java.lang.NoClassDefFoundError: net/ilexiconn/llibrary/server/asm/RuntimePatcher
+[14/03/2022 09:05:18 AM] [main/INFO] [java.lang.Throwable:printStackTrace:643]: 	at java.lang.ClassLoader.defineClass1(Native Method)
+[14/03/2022 09:05:18 AM] [main/INFO] [java.lang.Throwable:printStackTrace:643]: 	at java.lang.ClassLoader.defineClass(ClassLoader.java:760)
+[14/03/2022 09:05:18 AM] [main/INFO] [java.lang.Throwable:printStackTrace:643]: 	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+[14/03/2022 09:05:18 AM] [main/INFO] [java.lang.Throwable:printStackTrace:643]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182)
+[14/03/2022 09:05:18 AM] [main/INFO] [java.lang.Throwable:printStackTrace:643]: 	... 6 more
+[14/03/2022 09:05:18 AM] [main/INFO] [java.lang.Throwable:printStackTrace:667]: Caused by: java.lang.ClassNotFoundException: net.ilexiconn.llibrary.server.asm.RuntimePatcher
+[14/03/2022 09:05:18 AM] [main/INFO] [java.lang.Throwable:printStackTrace:667]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:101)
+[14/03/2022 09:05:18 AM] [main/INFO] [java.lang.Throwable:printStackTrace:667]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+[14/03/2022 09:05:18 AM] [main/INFO] [java.lang.Throwable:printStackTrace:667]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+[14/03/2022 09:05:18 AM] [main/INFO] [java.lang.Throwable:printStackTrace:667]: 	... 10 more
+[14/03/2022 09:05:18 AM] Oh no. Minecraft crashed. Please check the logs for any errors and provide these logs when asking for support.
+[14/03/2022 09:05:19 AM] Checking for updated files!
+[14/03/2022 09:05:19 AM] Checking for updates to modpacks.ch instances
+[14/03/2022 09:05:19 AM] Checking for updates to CurseForge instances
+[14/03/2022 09:05:22 AM] Copied Log to clipboard
